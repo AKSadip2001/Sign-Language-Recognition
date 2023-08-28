@@ -10,4 +10,4 @@ python -m venv venv
 
 ### Install libraries
 
-pip install opencv-python, tensorflow, scipy, numpy, pandas, matplotlib
+pip install opencv-python tensorflow scipy numpy pandas matplotlib
